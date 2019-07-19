@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
-        "bower-asset/animate.css": "*"
+        "bower-asset/animate.css": ">=3.7.2"
     },
     "autoload": {
         "psr-4": {
